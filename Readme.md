@@ -13,6 +13,8 @@ A curated list of awesome apps optimized for Android tablets.
 
 ## Productivity
 - [Notion](https://www.notion.so/) — all-in-one workspace.
+- [PdfGear](https://play.google.com/store/apps/details?id=com.pdfeditor.pdfeditorandriod) - View and Edit PDFs
+
 
 ## Task Management
 - [TickTick](https://ticktick.com/download) – Lightweight task manager with calendar, Pomodoro timer, and habit tracker.
@@ -23,3 +25,6 @@ A curated list of awesome apps optimized for Android tablets.
 ## Networking
 - [TailScale](https://tailscale.com/)- Secure Zero trust mesh vpn
 
+##Security
+- bitwarden
+- ms authenticafor
